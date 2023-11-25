@@ -60,22 +60,4 @@ if (temperature > 30) {
 }
 ```
 
-**Practice Assignments:**
-- Create a variable `isSunny` and write an if statement to log "It's sunny!" if true.
-- Declare a variable `num` and write an if-else statement to log "Positive" if it's greater than 0, and "Negative" otherwise.
-- Write an if-else statement to check if a variable `isWeekend` is true and log "Enjoy your weekend!" if true, otherwise log "It's a weekday."
-- Create a variable `password` and check if its length is greater than 8 characters. Log "Password is strong" if true, otherwise log "Password is weak."
-- Write an if-else statement to determine if a number `x` is even or odd.
-- Declare a variable `isLoggedIn` and log "User is logged in" if true, otherwise log "User is not logged in."
-- Check if a variable `hasPermission` is true, and log "Access granted" if true, otherwise log "Access denied."
-- Create two variables `num1` and `num2` and log the larger number.
-- Write an if-else statement to check if a variable `isAdult` is true and log "You are an adult" if true, otherwise log "You are a minor."
-- Check if a variable `hasErrors` is false, and log "No errors found" if true, otherwise log "Errors found."
-- Declare a variable `isRaining` and log appropriate messages based on its value.
-- Create a variable `userRole` and log different messages based on its value.
-- Write an if-else statement to check if a variable `isMorning` is true and log "Good morning" if true, otherwise log "Hello."
-- Check if a variable `isClosed` is true and log "Closed" if true, otherwise log "Open."
-- Create a variable `isPrimeNumber` and log messages based on its value.
-
-
 
