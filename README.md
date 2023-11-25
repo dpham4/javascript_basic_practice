@@ -32,7 +32,8 @@ const pi = 3.14159;
 - Create a variable `username` and assign it your name.
 - Declare a variable `isValid` and assign it a boolean value.
 
-**2. If-Else Statements:**
+## 2. If-Else Statements:**
+
 **Syntax:**
 ```javascript
 if (condition) {
