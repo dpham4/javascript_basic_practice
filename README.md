@@ -7,6 +7,7 @@
 let variableName = value;
 const constantName = value;
 var oldVariable = value; // Avoid using 'var' in modern JavaScript
+```
 
 **Practice Assignments:**
 
