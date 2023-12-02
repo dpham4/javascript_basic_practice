@@ -34,7 +34,7 @@ const pi = 3.14159;
 
 <br/><br/>
 
-## 2. If-Else Statements:**
+## 2. If-Else Statements:
 
 **Syntax:**
 ```javascript
@@ -78,4 +78,23 @@ if (temperature > 30) {
 - Create a variable `isPrimeNumber` and log messages based on its value.
 
 
+## 3. Loop (Interation):
+
+**Syntax:**
+```javascript
+for (initialization; condition; increment/decrement) {
+    // code to be executed
+}
+
+while (condition) {
+    // code to be executed
+}
+```
+
+**Example:**
+```javascript
+
+```
+
+**Practice Assignments:**
 
